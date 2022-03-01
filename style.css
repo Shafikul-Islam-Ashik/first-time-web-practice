@@ -188,7 +188,7 @@ h1,h2,h3,h4,h5,h6,p,a{
 /* banner section  css.*/
 
 .banner-section{
-  background: url(img/banner.jpg)  ;
+  background: url(banner.jpg)  ;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
